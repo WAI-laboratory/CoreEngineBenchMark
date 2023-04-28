@@ -1,6 +1,5 @@
 # CoreEngineBenchMark
 
-A description of this package.
 ### Libraries
 
 |Library|Version|
@@ -13,10 +12,8 @@ A description of this package.
 |[Mobius.swift](https://github.com/spotify/Mobius.swift)|0.5.0|
 
 ### Procedure
-* Measured average time taken and CPU cycles of 100 tests that process 100,000 actuibs
-
+* Measured average time taken and CPU cycles of 100 tests that process 100,000 actions
 
 ### Results
 
-> Core Engine is insanely weight-light and fast.
 <img width="914" alt="Screenshot 2023-04-28 at 1 39 26 PM" src="https://user-images.githubusercontent.com/47838132/235056189-d07c0022-9d41-41a4-9564-9489e7619a17.png">
