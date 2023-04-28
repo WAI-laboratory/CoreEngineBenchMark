@@ -12,6 +12,9 @@ A description of this package.
 |[ReSwift](https://github.com/ReSwift/ReSwift)|6.1.0|
 |[Mobius.swift](https://github.com/spotify/Mobius.swift)|0.5.0|
 
+### Procedure
+* Measured average time taken and CPU cycles of 100 tests that process 100,000 actuibs
+
 
 ### Results
 
